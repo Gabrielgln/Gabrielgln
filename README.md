@@ -1,7 +1,7 @@
 ### Olá, Eu sou Gabriel Lira
 
 - 🔭 Graduando Ciências da Computação na Universidade Estadual da Paraíba
-- 🌱 Estudando Banco de dados (mySql)
+- 🌱 Estudando Banco de dados(MySQL)
 - 💬 Contate-me no email: gabriellira820@gmail.com
 
 <div align="center">
