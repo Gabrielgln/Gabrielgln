@@ -35,7 +35,7 @@
   
 ### Projects
   - <a href="https://github.com/Gabrielgln/TodoApp">Sistema de anotações</a>
-  - <a href="https://gabrielgln.github.io/proway-computers/produtos">Sitema web de E-commerce</a>
+  - <a href="gabrielgln.github.io/proway-computers/carrinho">Sitema web de E-commerce</a>
   
   
   
