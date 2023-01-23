@@ -34,7 +34,7 @@
 </div>
   
 ### Projects
-  - <a href="https://github.com/Gabrielgln/TodoApp">Projeto de anotações</a>
+  - <a href="https://github.com/Gabrielgln/TodoApp">Projeto desktop de Anotações</a>
   - <a href="https://gabrielgln.github.io/proway-computers/">Projeto web de E-commerce</a>
   - <a href="https://gabrielgln.github.io/projeto-mario/">Projeto web do Super Mario Bros</a>
   
