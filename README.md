@@ -37,6 +37,7 @@
   - <a href="https://github.com/Gabrielgln/TodoApp">Projeto desktop de Anotações</a>
   - <a href="https://gabrielgln.github.io/proway-computers/">Projeto web de E-commerce</a>
   - <a href="https://gabrielgln.github.io/SuperMarioBros/">Projeto web do Super Mario Bros</a>
+  - <a href="https://gabrielgln.github.io/MarioJump/">Projeto web do Jogo do Mario</a>
   
   
   
