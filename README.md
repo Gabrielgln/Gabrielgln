@@ -22,10 +22,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
  
   
@@ -36,8 +32,6 @@
 ### Projects
   - <a href="https://github.com/Gabrielgln/TodoApp">Projeto desktop de Anotações</a>
   - <a href="https://gabrielgln.github.io/proway-computers/">Projeto web de E-commerce</a>
-  - <a href="https://gabrielgln.github.io/SuperMarioBros/">Projeto web do Super Mario Bros</a>
-  - <a href="https://gabrielgln.github.io/MarioJump/">Projeto web do Jogo do Mario</a>
   
   
   
