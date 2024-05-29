@@ -1,7 +1,7 @@
 ### Olá, Eu sou Gabriel Lira
 
 - 🔭 Graduando Ciências da Computação na Universidade Estadual da Paraíba
-- 🌱 No momento estou estudando o framework Django
+- 🌱 No momento estou estudando o framework Spring Boot
 - 💬 Contate-me no email: gabriellira820@gmail.com
 
 <div> 
